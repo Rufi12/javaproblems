@@ -1,23 +1,23 @@
 /*
-Write a Program that takes input n and prints the below pattern and upload the code to your github repo.
-Sample 1:
-Input:
-n = 4
-Expected output:
-*
-**
-***
-****
+Write a Program which takes input n and prints the below pattern and upload the code to your github repo.
 
-Sample 2
+
+
+Sample 1:
+
 Input:
-n= 6
-*
-**
-***
-****
-*****
-******
+
+n = 4
+
+Expected output:
+
+4321
+
+321
+
+21
+
+1
                                        */
 import java.util.*;
 public class Main
